@@ -1,1 +1,12 @@
+package latihan;
 
+
+public static void main(String[] args) {
+
+   int myNum = 32;               	  // Integer (whole number)
+   float myFloatNum = (float) 6.99;  // Floating point number
+   char myLetter = 'H';        	    // Character
+   boolean myBool = true;      	    // Boolean
+   String myText = "Hello";     	    // String
+
+}
